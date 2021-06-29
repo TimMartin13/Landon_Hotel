@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          The Evel 1 is coming!
         </a>
       </header>
     </div>
